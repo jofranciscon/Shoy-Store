@@ -1,0 +1,7 @@
+<img src="creatina_img1.jpg" width="200px" height="250px" alt="Creatina">
+    <figcaption>Cratina Gostosa e Saborosa, a MELHOR do Mercado</figcaption>
+
+    <nav>
+        <a href="https://shopee.com.br/Creatina-Turbo-300g-Black-Skull-Caveira-Preta-Series-i.242277934.20517241086" target="_blank">Acesse o produto AQUI</a>
+
+    </nav>
